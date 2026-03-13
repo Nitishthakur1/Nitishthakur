@@ -17,9 +17,6 @@
 ### Languages & Frameworks
 - Python
 - Django
-- JavaScript
-- HTML5
-- CSS3
 
 ### Cloud & DevOps
 - AWS
@@ -33,10 +30,8 @@
 
 ### Databases & Monitoring
 - MySQL
-- PostgreSQL
 - Grafana
 - Prometheus
-- Kibana
 
 ---
 
