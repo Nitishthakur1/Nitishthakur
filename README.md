@@ -47,7 +47,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/>
 </p>
-### Databases & Monitoring
+### Databases & Monitoring 
+
 - MySQL
 - Grafana
 - Prometheus
