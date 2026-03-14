@@ -55,7 +55,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40"/>
 </p>
 
-## 🛠 Tech Stack
 
 ## 📫 Connect With Me
 GitHub: https://github.com/Nitishthakur1
