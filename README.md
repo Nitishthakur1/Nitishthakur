@@ -59,9 +59,9 @@
 
 
 ## 📫 Connect With Me
-<p align="left">
-<a href="mailto:your-nitishthakur240@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-GitHub: https://github.com/Nitishthakur1
+- Name: NITISH THAKUR 
+- Email: nitishthakur240@gmail.com
+- Number: 7759928008
+- GitHub: https://github.com/Nitishthakur1
+
+
