@@ -26,6 +26,7 @@
 ### Cloud & DevOps
 - AWS
 - GCP
+- Linux
 - Docker
 - Kubernetes
 - Jenkins
