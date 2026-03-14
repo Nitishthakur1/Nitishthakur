@@ -48,7 +48,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/>
 </p>
 ### Databases & Monitoring 
-
 - MySQL
 - Grafana
 - Prometheus
