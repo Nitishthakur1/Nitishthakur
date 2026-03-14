@@ -60,6 +60,14 @@
 </p>
 
 ### Cloud & DevOps
+- AWS
+- GCP
+- Docker
+- Kubernetes
+- Jenkins
+- GitLab
+- Terraform
+- Ansible
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
